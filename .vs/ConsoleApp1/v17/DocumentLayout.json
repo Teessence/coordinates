@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\Desktop\\coordinates\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E70A83-2D53-4210-8F7D-EE3B8170F45B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jakub\\desktop\\coordinates\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E70A83-2D53-4210-8F7D-EE3B8170F45B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E70A83-2D53-4210-8F7D-EE3B8170F45B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\jakub\\desktop\\coordinates\\consoleapp1\\consoleapp1\\finalrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E70A83-2D53-4210-8F7D-EE3B8170F45B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\finalrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\coordinates\\ConsoleApp1\\ConsoleApp1\\FinalRectangle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FinalRectangle.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\coordinates\\ConsoleApp1\\ConsoleApp1\\FinalRectangle.cs",
+              "RelativeToolTip": "ConsoleApp1\\FinalRectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:38:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\coordinates\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\coordinates\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAQwCMBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T22:08:52.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
